@@ -8,6 +8,7 @@ Simulation waveforms:
 
 
 Output:
+
 ![new3](https://github.com/Uttungauttunga/N-bit-multiplier/assets/98632943/0bf2aa4c-9762-4e1a-af59-cc76af177f68)
 ![new4](https://github.com/Uttungauttunga/N-bit-multiplier/assets/98632943/6dafeeec-196b-4571-ada6-1cd92113cb46)
 ![new5](https://github.com/Uttungauttunga/N-bit-multiplier/assets/98632943/6cf021ad-bfb8-45e6-b092-8786f93db610)
